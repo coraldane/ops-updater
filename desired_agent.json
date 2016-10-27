@@ -1,1 +1,0 @@
-[{"name":"falcon-agent","version":"5.1.3","tarball":"http://udai.com/releases/falcon","md5":"5f9ab5e81c386cde72c022d1b6d061d9","cmd":"start","runUser":"falcon","workDir":"/home/falcon/open-falcon","configFileName":"cfg.json","configRemoteUrl":"http://udai.com/releases/falcon/conf/falcon-agent-cfg.json"}]
