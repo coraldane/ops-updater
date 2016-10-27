@@ -1,7 +1,7 @@
 {
     "log_level": "debug",
     "hostname": "",
-    "server": "meta.falcon.idao.me:2000",
+    "server": "${meta_server}:2000",
     "interval": 300,
     "http": {
         "enabled": false,
